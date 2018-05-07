@@ -1,0 +1,8 @@
+/node_modules/
+/public/
+.cache
+yarn-error.log
+npm-debug.log
+@eaDir
+.DS_Store
+.vscode

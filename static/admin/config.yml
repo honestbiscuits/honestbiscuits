@@ -1,0 +1,78 @@
+backend:
+  name: git-gateway
+  repo: honestbiscuits/honestbiscuits-gbn
+  branch: master
+  accept_roles: #optional - accepts all users if left out
+    - admin
+    - editor
+
+display_url: https://honestbiscuits.com
+
+media_folder: static/uploads
+public_folder: /uploads
+
+collections:
+  - name: "blog"
+    label: "Blog"
+    folder: "src/pages/blog"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "Template Key", name: "templateKey", widget: "hidden", default: "blog"}
+      - {label: "Title", name: "title", widget: "string", pattern: ['.{10,250}', "Should be 10-250 characters."]}
+      - {label: "Publish Date", name: "date", widget: "date"}
+      - {label: "Description", name: "description", widget: "text"}
+      - {label: "Body", name: "body", widget: "markdown"}
+
+  - name: "pages"
+    label: "Pages"
+    files:
+      - file: "src/pages/about-us/index.md"
+        label: "About Us"
+        name: "about-us"
+        fields:
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "page"}
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Body", name: "body", widget: "markdown"}
+      - file: "src/pages/biscuit-mix-directions/index.md"
+        label: "Biscuit Mix Directions"
+        name: "biscuit-mix-directions"
+        fields:
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "page"}
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Body", name: "body", widget: "markdown"}
+      - file: "src/pages/find-buy/index.md"
+        label: "Find & Buy"
+        name: "find-buy"
+        fields:
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "page"}
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Body", name: "body", widget: "markdown"}
+      - file: "src/pages/ingredients-sources/index.md"
+        label: "Ingredients & Sources"
+        name: "ingredients-sources"
+        fields:
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "page"}
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Body", name: "body", widget: "markdown"}
+      - file: "src/pages/jobs/index.md"
+        label: "Jobs"
+        name: "jobs"
+        fields:
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "page"}
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Body", name: "body", widget: "markdown"}
+      - file: "src/pages/menu/index.md"
+        label: "Menu"
+        name: "menu"
+        fields:
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "page"}
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Body", name: "body", widget: "markdown"}
+      - file: "src/pages/press/index.md"
+        label: "Press"
+        name: "press"
+        fields:
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "page"}
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Body", name: "body", widget: "markdown"}
