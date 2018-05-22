@@ -1,6 +1,6 @@
 {
-  "name": "honestbiscuits-gbn",
-  "version": "0.9.7",
+  "name": "honestbiscuits",
+  "version": "0.9.8",
   "description": "Honest Biscuits website via Gatsby/Netlify",
   "author": "Corey Gouker <corey@coreygo.com>",
   "repository": "github:honestbiscuits/honestbiscuits",
