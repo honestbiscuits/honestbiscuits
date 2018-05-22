@@ -33,7 +33,7 @@
     "@fortawesome/fontawesome": "^1.1.7",
     "@fortawesome/fontawesome-free-brands": "^5.0.12",
     "@fortawesome/fontawesome-free-solid": "^5.0.12",
-    "@fortawesome/react-fontawesome": "0.0.19",
+    "@fortawesome/react-fontawesome": "0.0.20",
     "bootstrap": "^4.1.1",
     "gatsby": "^1.9.259",
     "gatsby-cli": "^1.1.51",
