@@ -1,12 +1,12 @@
 backend:
   name: git-gateway
-  repo: honestbiscuits/honestbiscuits-gbn
+  repo: honestbiscuits/honestbiscuits
   branch: master
   accept_roles: #optional - accepts all users if left out
     - admin
     - editor
 
-display_url: https://honestbiscuits.com
+display_url: https://www.honestbiscuits.com
 
 media_folder: static/uploads
 public_folder: /uploads
