@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 blogPath=./src/pages/blog/
 
 read -e -p "Enter blog date [YYYY-MM-DD]: " date
