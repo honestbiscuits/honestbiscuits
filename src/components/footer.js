@@ -7,11 +7,6 @@ const Footer = () => (
       <div className="container">
         <div className="row justify-content-around align-items-center text-center">
           <div className="col-md-4 my-2 text-nowrap">
-            Created by&nbsp;
-            <a href="https://coreygo.com" alt="Coreygo">
-              Coreygo
-            </a>
-            <br />
             Some photos via&nbsp;
             <a href="https://www.savorseattletours.com" alt="Savor Seattle">
               Savor Seattle
