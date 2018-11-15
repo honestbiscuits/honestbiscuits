@@ -9,6 +9,9 @@ module.exports = {
   siteRss: '/rss.xml', // Path to the RSS file.
   siteFBAppID: '', // FB Application ID for using app insights
   siteGATrackingID: 'UA-117671838-1', // Tracking code ID for google analytics.
+  siteGTMTrackingID: 'GTM-5GDGBZ7', // Tracking code ID for google tag manager.
+  siteGMTAuthID: '', // optional google tag manager environment auth string.
+  siteGMTPreviewName: '', // optional google tag manager environment preview name string.
   disqusShortname: '', // Disqus shortname.
   userName: 'Honest Biscuits', // Username to display in the author segment.
   userTwitter: 'HonestBiscuits', // Optionally renders "Follow Me" in the UserInfo segment.

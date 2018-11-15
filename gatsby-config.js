@@ -58,6 +58,20 @@ module.exports = {
       },
     },
     {
+      resolve: `gatsby-plugin-google-tagmanager`,
+      options: {
+        id: config.siteGTMTrackingID,
+
+        // Include GTM in development.
+        // Defaults to false meaning GTM will only be loaded in production.
+        includeInDevelopment: false,
+
+        // Specify optional GTM environment details.
+        // gtmAuth: config.siteGMTAuthID,
+        // gtmPreview: config.siteGMTPreviewName,
+      },
+    },
+    {
       resolve: 'gatsby-plugin-netlify-cms',
       options: {
         modulePath: `${__dirname}/src/cms/cms.js`,

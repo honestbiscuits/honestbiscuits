@@ -1,15 +1,15 @@
 #!/usr/bin/env bash
 blogPath=./src/pages/blog/
 
-read -e -p "Enter blog date [YYYY-MM-DD]: " date
-read -e -p "Enter blog title: " title
-read -e -p "Enter blog description: " description
+read -erp "Enter blog date [YYYY-MM-DD]: " date
+read -erp "Enter blog title: " title
+read -erp "Enter blog description: " description
 
 function slug() {
-    echo "$1" | sed -e 's/[^[:alnum:]]/-/g' | tr -s '-' | tr A-Z a-z
+    echo "$1" | sed -e 's/[^[:alnum:]]/-/g' | tr -s '-' | tr '[:upper:]' '[:lower:]'
 }
 
-cat << EOF > $blogPath$(slug "$title").md
+cat << EOF > "$blogPath$(slug "$title").md"
 ---
 date: '$date'
 title: $title
@@ -20,5 +20,6 @@ description: |
 Markdown and/or HTML content goes here.
 EOF
 
-echo "\nBlog markdown created: " $blogPath$(slug "$title").md
-cat $blogPath$(slug "$title").md
+printf "\n"
+echo "Blog markdown created: " "$blogPath$(slug "$title").md"
+cat "$blogPath$(slug "$title").md"
