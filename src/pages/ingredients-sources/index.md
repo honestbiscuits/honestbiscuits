@@ -32,7 +32,7 @@ Other flavors feature various local and often seasonal ingredients.  Honest Bisc
 - Market House
 - [Bavarian Meats](https://www.bavarianmeats.com/)
 - [Uli's Sausage](https://ulisfamoussausage.com/)
-- [Tiny's Organics](http://www.tinysorganic.com/)
+- [Tiny's Organics](https://www.facebook.com/TinysOrganic/)
 - [Sunny Honey](https://www.sunnyhoneyco.com/)
 - [Lind's Meats](http://www.lindsmeats.com/)
 - [Whitehorse Meadows Farm](http://whitehorsemeadowsfarm.com/)
@@ -42,6 +42,6 @@ Other flavors feature various local and often seasonal ingredients.  Honest Bisc
 - [Sidhu Berries](https://sidhuberries.wordpress.com/)
 - [Mustard and Co.](https://www.mustardandco.com/)
 - [Soda Jerk](http://www.sodajerksoda.com/)
-- [Dry Soda](https://www.drysparkling.com/)
+- [Dry Soda](https://www.drysoda.com/)
 - Freezer Jams
 - [Bow Hill Blueberries](https://www.bowhillblueberries.com/)

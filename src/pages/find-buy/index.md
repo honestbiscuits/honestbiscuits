@@ -21,7 +21,7 @@ Find out about all of the [Seattle Neighborhood Farmers Markets](http://www.seat
 <div class="row my-3">
   <div class="col-5 mx-auto">
     <h4>Wednesdays</h4>
-    <a href="http://www.rentonfarmersmarket.com/">Columbia City Farmers Market</a><br>
+    <a href="https://seattlefarmersmarkets.org/markets/columbia-city">Columbia City Farmers Market</a><br>
     Edmonds (just off of Ranier)<br>
     3:00 to 7:00 pm<br>
     (CLOSED FOR SEASON)
@@ -46,7 +46,7 @@ Find out about all of the [Seattle Neighborhood Farmers Markets](http://www.seat
   </div>
   <div class="col-5 mx-auto">
     <h4>Sundays</h4>
-    <a href="http://www.seattlefarmersmarkets.org/markets/west_seattle/">West Seattle Farmers Market</a><br>
+    <a href="https://seattlefarmersmarkets.org/markets/west-seattle">West Seattle Farmers Market</a><br>
     California Ave SW (near Oregon)<br>
     10:00 am to 2:00 pm<br>
     (year round)<br>
@@ -59,12 +59,12 @@ Find out about all of the [Seattle Neighborhood Farmers Markets](http://www.seat
 
 <div class="row my-3">
   <div class="col-5 mx-auto">
-    <a href="http://www.birdonawireespresso.com/">Bird On A Wire Espresso</a><br>
+    <a href="http://thirstiestbirds.com/">Bird On A Wire Espresso</a><br>
     3509 SW Henderson (at 35th)<br>
     Biscuits (regular and gluten-free).<br>
   </div>
   <div class="col-5 mx-auto">
-    <a href="https://www.facebook.com/pages/Boulevard-Grocery/119025588149208">Seven Coffee Roasters</a><br>
+    <a href="https://sevencoffeeroasters.com/pages/market-cafe-u-district">Seven Coffee Roasters</a><br>
     2007 NE Ravenna Boulevard<br>
     Biscuits and biscuit mixes.<br>
   </div>
@@ -72,7 +72,7 @@ Find out about all of the [Seattle Neighborhood Farmers Markets](http://www.seat
 
 <div class="row my-3">
   <div class="col-5 mx-auto">
-    <a href="http://www.pccnaturalmarkets.com/locations/cc.html">PCC Natural Markets</a><br>
+    <a href="https://www.pccmarkets.com/stores/columbia-city/">PCC Natural Markets</a><br>
     3610 S. Edmunds St.<br>
     (206) 466-6182<br>
     Four-Packs, regular and gluten-free in the freezer<br>
