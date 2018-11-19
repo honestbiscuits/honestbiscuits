@@ -102,7 +102,7 @@ We have served everything from small parties and dinners to larger scale corpora
 Let Honest Biscuits add something good, local, and fun to your next event!
 
 #### Mail Order
-Our biscuits are sold through [Goldbely](https://www.goldbely.com/honest-biscuits), along with some of the best food in America. 
+Our biscuits are sold through [Goldbelly](https://www.goldbelly.com/honest-biscuits), along with some of the best food in America. 
 
 If you are looking for more variety, we have a more extensive store on [Square Marketplace here](https://squareup.com/market/honest-biscuits).
 
