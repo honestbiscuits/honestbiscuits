@@ -1,6 +1,8 @@
 ---
 title: Menu
 templateKey: page
+description: |
+    Our honest to goodness, kick-ass biscuit menu. Come by for breakfast, we open daily at 8AM!
 ---
 <div class="row">
   <div class="col col-6 col-small-6 col-tiny-6">
