@@ -15,7 +15,7 @@ Other flavors feature various local and often seasonal ingredients.  Honest Bisc
 - [Shepherd’s Grain](https://www.shepherdsgrain.com/)
 - [Smith Brothers Dairy](https://www.smithbrothersfarms.com/)
 - [Pure Eire Dairy](https://www.pureeiredairy.com/)
-- [Tonnemaker Farms](http://tonnemaker.com/)
+- [Tonnemaker Farms](http://tonnemaker.com/index.html)
 - River Farms
 - [Local Roots Organics](http://localrootsfarm.com/)
 - [Hayton Farms](http://www.haytonfarmsberries.com/)
