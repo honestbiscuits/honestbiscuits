@@ -1,6 +1,7 @@
 ---
 title: About Us
 templateKey: page
+description: Honest to Goodness, Kick-ass Biscuits... Each sales day, the biscuits are made fresh from local ingredients, the primary being Washington’s Shepherd’s Grain flour. This is the same premium quality, sustainably grown flour used in some of the best local bakeries. We add local dairy products to make a delicious piece of bread that is slightly crunchy on the outside, but light on the inside. A local baker described them as "fluffy clouds of goodness".
 ---
 Each sales day, we bake our biscuits fresh.  The biscuits are made fresh from local ingredients, the primary ingredient being Washington’s Shepherd’s Grain flour.  This is the same premium quality, sustainably grown flour used in some of the best local bakeries.  We add local dairy products to make a delicious piece of bread that is slightly crunchy on the outside, but light on the inside.  A local baker described them as "fluffy clouds of goodness".  Taking it to the next level, we then add other ingredients such as Theo Chocolate, Beecher’s Cheese, Bavarian Meat’s Bacon, and local fruit for uniquely flavored biscuits.
 

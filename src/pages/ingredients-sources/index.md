@@ -1,6 +1,7 @@
 ---
 title: Ingredients & Sources
 templateKey: page
+description: Honest to Goodness, Kick-ass Biscuits... Each sales day, the biscuits are made fresh from local ingredients, the primary being Washington’s Shepherd’s Grain flour. This is the same premium quality, sustainably grown flour used in some of the best local bakeries. We add local dairy products to make a delicious piece of bread that is slightly crunchy on the outside, but light on the inside. A local baker described them as "fluffy clouds of goodness".
 ---
 Since most Honest Biscuits are sold to order at markets, they do not contain stickers with ingredient lists (the exceptions are the frozen pre-packaged four-packs such as the gluten free.  The following is the ingredient list for your information.
 

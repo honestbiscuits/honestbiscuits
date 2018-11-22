@@ -1,7 +1,7 @@
 ---
 title: Menu
 templateKey: page
-description: |
+description: Using the best fresh local ingredients, we are open for breakfast. The restaurant menu features buttermilk biscuits, breakfast sandwiches, biscuits and gravy and many other southern favorites including vegan, vegetarian and gluten free menu items. Missed breakfast? Try our newest fried chicken sandwich or a crab melt for lunch.
     Our honest to goodness, kick-ass biscuit menu. Come by for breakfast, we open daily at 8AM!
 ---
 <div class="row">

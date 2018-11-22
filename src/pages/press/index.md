@@ -1,6 +1,7 @@
 ---
 title: Press
 templateKey: page
+description: Since 2011, Honest Biscuits has been featured in 1000's of stores in newspapers, magazines, and videos from Seattles to Charlseton. Check out the latest.
 ---
 ••  Seattle Refined (at KOMO.com) included Honest Biscuits' biscuit mix in "[7 Food and Drink Gifts for Everyone on Your List](http://seattlerefined.com/eat-drink/7-food-and-drink-gifts-for-everyone-on-your-list)" in December 2014. They noticed that we created a "mix that anyone can use".  That is because we sell both a regular and gluten-free version.
 
