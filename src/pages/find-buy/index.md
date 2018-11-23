@@ -1,7 +1,8 @@
 ---
 title: Find & Buy
 templateKey: page
-description: Find and buy Honest Biscuits at our Pike Place Market bakery where where we bake our biscuits fresh daily. Don't have time to visit? Find us at a Seattle farmer's market, coffee shops, or at a local grocery. Or order biscuits for delivery or ship nationwide via mail order. We can also cater your next event or office party.
+description: |
+    Find and buy Honest Biscuits at our Pike Place Market bakery where where we bake our biscuits fresh daily. Don't have time to visit? Find us at a Seattle farmer's market, coffee shops, or at a local grocery. Or order biscuits for delivery or ship nationwide via mail order. We can also cater your next event or office party.
 ---
 We are now at 1901 Western Avenue — just south of Victor Steinbrueck Park. You can also reach us by going to the craft day stalls at the northwest corner of the Pike Place Market and across the Joe Desminone Bridge and out onto the new plazas. We are downstairs from that. Or just look for our neon sign on Western Avenue.
 

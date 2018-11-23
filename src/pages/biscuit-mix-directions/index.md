@@ -1,7 +1,8 @@
 ---
 title: Biscuit Mix Directions
 templateKey: page
-description: Tips on baking the freshest buttermilk biscuits using the Nortwest's best quality ingredients. Watch our video to see how to prepare one Honest Biscuits biscuit mixes at home. This also be used for our gluten free biscuit mixes. 
+description: |
+    Tips on baking the freshest buttermilk biscuits using the Nortwest's best quality ingredients. Watch our video to see how to prepare one Honest Biscuits biscuit mixes at home. This also be used for our gluten free biscuit mixes.
 ---
 Since there is only a limited amount you can put on a label, we offer more detailed biscuit mix directions. We have a video of the process first and then more detailed written instructions and tips. The process is the same for GLUTEN FREE and regular mixes, though the regular probably required more buttermilk.
 <div class="embed-responsive embed-responsive-16by9 w-75 mx-auto">
