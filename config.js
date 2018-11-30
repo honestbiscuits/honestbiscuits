@@ -5,7 +5,7 @@ module.exports = {
   siteLogo: '/images/logo-512px-p-500x500.png', // Logo used for SEO and manifest.
   siteUrl: 'https://www.honestbiscuits.com', // Domain of your website without pathPrefix.
   pathPrefix: '/', // Prefixes all links. For cases when deployed to example.github.io/gatsby-material-starter/.
-  siteDescription: 'Honest Biscuits is a restaurant in the Pike Place Market in Downtown Seattle baking fresh biscuits daily using the best local ingredients. A short walk from Belltown, Pioneer Square, and the Seattle Waterfront the shop is located on Western Avenue in the new Pike Market MarketFront expansion offering Seattles best views.', // Website description used for RSS feeds/meta description tag.
+  siteDescription: 'Honest Biscuits restaurant in the Pike Place Market in Downtown Seattle bakes fresh golden brown biscuits daily using the best local ingredients. A short walk from Belltown, Pioneer Square and the Seattle Waterfront the shop is located on Western Avenue in the new Pike Market MarketFront expansion offering Seattle\'s best views.', // Website description used for RSS feeds/meta description tag.
   siteRss: '/rss.xml', // Path to the RSS file.
   siteFBAppID: '', // FB Application ID for using app insights
   siteGATrackingID: 'UA-117671838-1', // Tracking code ID for google analytics.
