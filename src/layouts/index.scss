@@ -43,6 +43,11 @@ $spacers: map-merge(( 0: 0, 1: ($spacer * .25), 2: ($spacer * .5), 3: $spacer, 4
   margin: 0px;
 }
 
+// Add some header styles to the Menu Page
+.menu h1 {
+font-size: 24px;
+}
+
 .navbar {
   background-color: rgba(43, 43, 43, 0.9);
   border-color: rgba(241, 91, 24, 0.7);

@@ -4,9 +4,10 @@ templateKey: page
 description: |
     Using the best fresh local ingredients, we are open daily for breakfast. Our restaurant menu features buttermilk biscuits, breakfast sandwiches, biscuits and gravy and many other southern favorites including vegan, vegetarian and gluten free options. Missed breakfast? Try our newest fried chicken sandwich or a crab melt for lunch.
 ---
+<div class="menu">
 <div class="row">
   <div class="col col-6 col-small-6 col-tiny-6">
-    <h4>Biscuits</h4>
+    <h1>Biscuits</h1>
     <p>Warmed up to eat here, or to take home and eat later</p>
     <div class="row">
       <div class="col col-9 col-small-9 col-tiny-9">
@@ -19,9 +20,20 @@ description: |
         <p>$3.50</p>
       </div>
     </div>
+    <div class="row">
+      <div class="col col-9 col-small-9 col-tiny-9">
+        <p>
+          <strong>Gluten-Free Butterhole Biscuit<br></strong>
+        </p>
+        <p>Gluten Free version of the classic with butter, jam,and/or honey</p>
+      </div>
+      <div class="col col-3 col-small-3 col-tiny-3">
+        <p>$4.50</p>
+      </div>
+    </div>
   </div>
   <div class="col col-6 col-small-6 col-tiny-6">
-    <h4>Biscuit Flavors</h4>
+    <h4>Flavored Biscuits</h4>
     <div class="row">
       <div class="col col-9 col-small-9 col-tiny-9">
         <p>
@@ -59,7 +71,19 @@ description: |
 </div>
 <div class="row">
   <div class="col col-6 col-small-6 col-tiny-6">
-    <h4>Sandwiches</h4>
+    <h1>Biscuit Sandwiches</h1>
+    <div class="row">
+      <div class="col col-9 col-small-9 col-tiny-9">
+        <p>
+          <strong>Fried Chicken on a Butterhole Biscuit<br></strong>
+        </p>
+        <p>Crispy chicken thigh on a biscuit with mayo and pickles from Seattle Pickle Company
+        </p>
+      </div>
+      <div class="col col-3 col-small-3 col-tiny-3">
+        <p>New</p>
+      </div>
+    </div>
     <div class="row">
       <div class="col col-9 col-small-9 col-tiny-9">
         <p>
@@ -86,6 +110,7 @@ description: |
     </div>
   </div>
   <div class="col col-6 col-small-6 col-tiny-6">
+    <h1>Breakfast Sandwiches</h1>
     <div class="row">
       <div class="col col-9 col-small-9 col-tiny-9">
         <p>
@@ -123,7 +148,7 @@ description: |
 </div>
 <div class="row">
   <div class="col col-6 col-small-6 col-tiny-6">
-    <h4>Biscuits and Gravy</h4>
+    <h1>Biscuits and Gravy</h1>
     <div class="row">
       <div class="col col-9 col-small-9 col-tiny-9">
         <p>
@@ -306,4 +331,5 @@ description: |
       </div>
     </div>
   </div>
+</div>
 </div>
