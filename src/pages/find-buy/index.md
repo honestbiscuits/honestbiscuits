@@ -111,3 +111,6 @@ If you are looking for more variety, we have a more extensive store on [Square M
 The biscuits are baked fresh to order, so the order will take a couple of days to be processed.  The biscuits are frozen immediately after baking and frozen overnight.  They are shipped frozen (and thaw out in transit) to preserve maximum freshness.  They are great when reheated.
 
 If you are local and cannot make it to one of our markets, just email us and we can figure out a way to get you some biscuits.  We can bake our amazing biscuits for your next office meeting or family gathering.
+
+#### Gift Cards
+Have a friend of family member who loves biscuits? Get them an [Honest Biscuits gift card] (https://squareup.com/gift/AAHD65JMKMENJ/order). Gift cards are available in any amount you choose.
