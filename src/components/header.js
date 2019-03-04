@@ -100,7 +100,7 @@ const Header = () => (
               </Link>
             </li>
             <li className="nav-item dropdown">
-	      <div className="nav-link px-4 dropdown-toggle btn-danger">
+	      <div className="nav-link px-4 dropdown-toggle btn-outline-danger">
                 Order Now
 	      </div>
               <div
