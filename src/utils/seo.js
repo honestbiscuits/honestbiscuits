@@ -15,7 +15,7 @@ const SEO = () => {
       	url: config.siteUrl,
       	name: config.siteTitle,
       	alternateName: config.siteTitleAlt,
-      	image: config.siteUrl + '/' + config.siteLogo,
+      	image: config.siteUrl + config.siteLogo,
       	description: config.siteDescription,
       	address : ({
 	'@type': 'PostalAddress',
