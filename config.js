@@ -16,7 +16,8 @@ module.exports = {
   userName: 'Honest Biscuits', // Username to display in the author segment.
   userTwitter: 'HonestBiscuits', // Optionally renders "Follow Me" in the UserInfo segment.
   userLocation: 'Seattle, WA, Earth', // User location to display in the author segment.
-  userLocationHours: 'Open daily from 8AM — 5PM',
+  userLocationHours: 'Open daily from 8AM — 5PM', // Business hours displayed in contact segment.
+  userScheduleHours: 'Mo-Su 08:00-16:00', // Business hours formatted for JSON-LD.
   userLocationAddress: [
     {
       street: '1901 Western Avenue',
@@ -25,6 +26,8 @@ module.exports = {
       zip: '98101',
     },
   ],
+  userLatitude: '47.6096656',
+  userLongitude: '-122.3431935',
   userGMapUrl: 'https://goo.gl/maps/dGjttB86jbN2',
   userPhone: '+1 (206) 682-7179',
   userEmail: 'info@honestbiscuits.com',

@@ -100,9 +100,9 @@ const Header = () => (
               </Link>
             </li>
             <li className="nav-item dropdown">
-	      <div className="nav-link px-4 dropdown-toggle btn-outline-danger">
+              <div className="nav-link px-4 dropdown-toggle order-now">
                 Order Now
-	      </div>
+              </div>
               <div
                 className="dropdown-menu m-0"
                 aria-labelledby="navbarDropdown"
@@ -111,15 +111,15 @@ const Header = () => (
                   href="https://www.grubhub.com/restaurant/honest-biscuits-1901-western-ave-suite-e-seattle/383167?classicAffiliateId=%2Fr%2Fw%2F49686%2F&utm_source=content-cms.grubhub.com&utm_medium=OOL&utm_campaign=order%20online&utm_content=383167"
                   className="dropdown-item"
                   activeClassName="active"
-		  target="_blank"
+                  target="_blank"
                 >
-		 Local Seattle Delivery
+                  Local Seattle Delivery
                 </a>
                 <a
                   href="https://ordering.chownow.com/order/10627/locations"
                   className="dropdown-item"
                   activeClassName="active"
-		  target="_blank"
+                  target="_blank"
                 >
                   Instore Pickup
                 </a>
@@ -128,7 +128,7 @@ const Header = () => (
                   href="https://www.ezcater.com/catering/honest-biscuits-3"
                   className="dropdown-item"
                   activeClassName="active"
-		  target="_blank"
+                  target="_blank"
                 >
                   Seattle Catering
                 </a>
@@ -137,7 +137,7 @@ const Header = () => (
                   href="https://www.goldbelly.com/honest-biscuits"
                   className="dropdown-item"
                   activeClassName="active"
-		  target="_blank"
+                  target="_blank"
                 >
                   Nationwide Delivery
                 </a>

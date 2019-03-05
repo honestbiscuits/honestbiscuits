@@ -70,6 +70,16 @@ font-size: 24px;
   .nav-link.active {
     color: rgba(241, 91, 24, 0.7) !important;
   }
+  .nav-link.order-now:hover {
+    // margin: -3px;
+    // border-style: solid;
+    // border-width: 3px;
+    //border-bottom: none;
+    // border-color: rgba(241, 91, 24, 0.7) !important;
+    // NOTE: uncomment above and comment background-color for border instead of background
+    background-color: rgba(241, 91, 24, 0.7) !important;
+    cursor: default;
+  }
   .dropdown-item {
     font-weight: bold;
   }

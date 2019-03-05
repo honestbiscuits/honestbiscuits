@@ -10,41 +10,44 @@ import biscuitMug from '../images/chicken-biscuit-mug.jpg'
 const SEO = () => {
   const schemaOrgJSONLD = [
     {
-      	'@context': 'http://schema.org',
-      	'@type': 'Restaurant',
-      	url: config.siteUrl,
-      	name: config.siteTitle,
-      	alternateName: config.siteTitleAlt,
-      	image: config.siteUrl + config.siteLogo,
-      	description: config.siteDescription,
-      	address : ({
-	'@type': 'PostalAddress',
-	addressLocality : 'Seattle', 
-	addressRegion: 'WA', 
-	postalCode: '98101', 
-	streetAddress: '1901 Western Avenue', 
-	}),
- 
-	email : 'info@honestbiscuits.com',
-	telephone : '+1 (206) 682-7179',
-	openingHours: ['Mo-Su 08:00-16:00'], 
-	geo: ({
-    		'@type': 'GeoCoordinates',
-    		latitude : '47.6096656',
-    		longitude : '-122.3431935',
- 	}), 		
- 	sameAs : [ "https://www.facebook.com/HonestBiscuits/",
-    			"https://twitter.com/HonestBiscuits",
-    			"https://www.pinterest.com/honestbiscuits/",
-			"https://www.instagram.com/honestbiscuits/"],
+      '@context': 'http://schema.org',
+      '@type': 'Restaurant',
+      url: config.siteUrl,
+      name: config.siteTitle,
+      alternateName: config.siteTitleAlt,
+      image: config.siteUrl + config.siteLogo,
+      description: config.siteDescription,
+      address: {
+        '@type': 'PostalAddress',
+        streetAddress: config.userLocationAddress[0].street,
+        addressLocality: config.userLocationAddress[0].city,
+        addressRegion: config.userLocationAddress[0].state,
+        postalCode: config.userLocationAddress[0].zip
+      },
 
-	priceRange : '1',
-	servesCuisine : ['Biscuits, Breakfast, Cafe, Vegetarian, Vegan, Gluten Free, Southern, Chicken, Sandwich, Soup'], 
-	acceptsReservations : 'false',
-	menu : 'https://www.honestbiscuits.com/menu',
-	paymentAccepted : 'Visa, Master Card, Discover, Amex',
+      email: config.userEmail,
+      telephone: config.userPhone,
+      openingHours: config.userScheduleHours,
+      geo: {
+        '@type': 'GeoCoordinates',
+        latitude: config.userLatitude,
+        longitude: config.userLongitude
+      },
+      sameAs: [
+        'https://www.facebook.com/HonestBiscuits/',
+        'https://twitter.com/HonestBiscuits',
+        'https://www.pinterest.com/honestbiscuits/',
+        'https://www.instagram.com/honestbiscuits/'
+      ],
 
-    },
+      priceRange: '1',
+      servesCuisine: [
+        'Biscuits, Breakfast, Cafe, Vegetarian, Vegan, Gluten Free, Southern, Chicken, Sandwich, Soup'
+      ],
+      acceptsReservations: 'false',
+      menu: 'https://www.honestbiscuits.com/menu',
+      paymentAccepted: 'Visa, Master Card, Discover, Amex'
+    }
   ]
   return (
     <Helmet>
