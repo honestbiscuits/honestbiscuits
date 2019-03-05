@@ -15,7 +15,7 @@ const SEO = () => {
       	url: config.siteUrl,
       	name: config.siteTitle,
       	alternateName: config.siteTitleAlt,
-      	image: config.siteLogo,
+      	image: config.siteUrl + '/' + config.siteLogo,
       	description: config.siteDescription,
       	address : ({
 	'@type': 'PostalAddress',
@@ -25,7 +25,8 @@ const SEO = () => {
 	streetAddress: '1901 Western Avenue', 
 	}),
  
-	email:'info@honestbiscuits.com',
+	email : 'info@honestbiscuits.com',
+	telephone : '+1 (206) 682-7179',
 	openingHours: ['Mo-Su 08:00-16:00'], 
 	geo: ({
     		'@type': 'GeoCoordinates',
