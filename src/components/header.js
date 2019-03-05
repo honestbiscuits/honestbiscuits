@@ -173,16 +173,14 @@ const Header = () => (
                 >
                   Jobs
                 </Link>
-              </div>
-            </li>
-            <li className="nav-item">
               <Link
                 to="/press"
-                className="nav-link px-4"
+                className="dropdown-item"
                 activeClassName="active"
               >
                 Press
               </Link>
+              </div>
             </li>
           </ul>
         </div>
