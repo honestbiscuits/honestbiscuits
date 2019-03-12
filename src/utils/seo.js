@@ -42,11 +42,11 @@ const SEO = () => {
 
       priceRange: '1',
       servesCuisine: [
-        'Biscuits, Breakfast, Cafe, Vegetarian, Vegan, Gluten Free, Southern, Chicken, Sandwich, Soup'
+        'biscuits, breakfast, cafe, vegetarian, vegan, gluten free, southern, biscuits and gravy, chicken, sandwich, soup'
       ],
       acceptsReservations: 'false',
       menu: 'https://www.honestbiscuits.com/menu',
-      paymentAccepted: 'Visa, Master Card, Discover, Amex'
+      paymentAccepted: 'Visa, Master Card, Discover, Amex, AndroidPay, ApplePay'
     }
   ]
   return (
