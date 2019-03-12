@@ -16,7 +16,7 @@ module.exports = {
   userName: 'Honest Biscuits', // Username to display in the author segment.
   userTwitter: 'HonestBiscuits', // Optionally renders "Follow Me" in the UserInfo segment.
   userLocation: 'Seattle, WA, Earth', // User location to display in the author segment.
-  userLocationHours: 'Open Weekdays from 8AM — 4PM and Weekends 8AM to 5PM', // Business hours displayed in contact segment.
+  userLocationHours: 'Open Weekdays from 8AM — 4PM <br/>and Weekends 8AM — 5PM', // Business hours displayed in contact segment.
   userScheduleHours: 'Mo-Fr 08:00-16:00,Sa-Su 08:00-17:00', // Business hours formatted for JSON-LD.
   userLocationAddress: [
     {
