@@ -125,7 +125,7 @@ const Header = () => (
                 </a>
 
                 <a
-                  href="https://www.ezcater.com/catering/honest-biscuits-3"
+                  href="https://www.ezcater.com/catering/pvt/honest-biscuits-3"
                   className="dropdown-item"
                   activeClassName="active"
                   target="_blank"
