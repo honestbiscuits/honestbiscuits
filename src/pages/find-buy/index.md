@@ -23,7 +23,7 @@ Find out about all of the [Seattle Neighborhood Farmers Markets](http://www.seat
 <div class="row my-3">
   <div class="col-5 mx-auto">
     <h4>Tuesdays</h4>
-    <a href="http://pikeplacemarket.org/events/denny-regrade-market">Denny Regrade Market</a><br>
+    <a href="http://pikeplacemarket.org/events/denny-regrade-market" target="_blank">Denny Regrade Market</a><br>
 	7th and Lenora<br>
     11:00 am to 2:00 pm<br>
     (Starting May 28th)
@@ -31,7 +31,7 @@ Find out about all of the [Seattle Neighborhood Farmers Markets](http://www.seat
 
   <div class="col-5 mx-auto">
     <h4>Thursdays</h4>
-    <strong>South Lake Union Farmers Market</strong><br>
+    <a href="http://pikeplacemarket.org/events/south-lake-union-farmers-market" target="_blank">South Lake Union Farmers Market</a><br>
     410 Terry Ave N<br>
     10:00 am to 2:00 pm<br>
     (Starting May 30th)
@@ -41,7 +41,7 @@ Find out about all of the [Seattle Neighborhood Farmers Markets](http://www.seat
 <div class="row my-3">
   <div class="col-5 mx-auto">
     <h4>Sundays</h4>
-    <a href="https://seattlefarmersmarkets.org/markets/west-seattle">West Seattle Farmers Market</a><br>
+    <a href="https://seattlefarmersmarkets.org/markets/west-seattle" target="_blank">West Seattle Farmers Market</a><br>
     California Ave SW (near Oregon)<br>
     10:00 am to 2:00 pm<br>
     (year round)<br>
