@@ -22,36 +22,31 @@ Find out about all of the [Seattle Neighborhood Farmers Markets](http://www.seat
 
 <div class="row my-3">
   <div class="col-5 mx-auto">
-    <h4>Wednesdays</h4>
-    <a href="https://seattlefarmersmarkets.org/markets/columbia-city">Columbia City Farmers Market</a><br>
-    Edmonds (just off of Ranier)<br>
-    3:00 to 7:00 pm<br>
-    (CLOSED FOR SEASON)
+    <h4>Tuesdays</h4>
+    <a href="http://pikeplacemarket.org/events/denny-regrade-market">Denny Regrade Market</a><br>
+	7th and Lenora<br>
+    11:00 am to 2:00 pm<br>
+    (Starting May 28th)
   </div>
+
   <div class="col-5 mx-auto">
     <h4>Thursdays</h4>
     <strong>South Lake Union Farmers Market</strong><br>
     410 Terry Ave N<br>
     10:00 am to 2:00 pm<br>
-    (CLOSED FOR SEASON)
+    (Starting May 30th)
   </div>
 </div>
 
 <div class="row my-3">
-  <div class="col-5 mx-auto">
-    <h4>Saturdays</h4>
-    <a href="http://seattlefarmersmarkets.org/markets/u-district">University District Farmers Market</a><br>
-    University Way NE (the "Ave")<br>
-    between 50th & 52nd, 98105<br>
-    9:00 am to 2:00 pm<br>
-    (we will return October 22)<br>
-  </div>
   <div class="col-5 mx-auto">
     <h4>Sundays</h4>
     <a href="https://seattlefarmersmarkets.org/markets/west-seattle">West Seattle Farmers Market</a><br>
     California Ave SW (near Oregon)<br>
     10:00 am to 2:00 pm<br>
     (year round)<br>
+  </div>
+  <div class="col-5 mx-auto">
   </div>
 </div>
 
