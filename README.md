@@ -29,7 +29,7 @@ npm run serve
 ### Create new blog frontmatter from command line
 The script, `newblog.sh`, is an easier way to create blogs while developing locally. The Netlify CMS won't be available while developing locally via `localhost:8000`. Running `sh newblog.sh` will prompt for a date, title, and description. The input will be saved to a new markdown file located in `./src/pages/blog/` with a slugified filename from the title input, e.g. "New Blog Post Title" becomes `./src/pages/blog/new-blog-post-title.md`. The default markdown/HTML body is ready for editing.
 
-All "blog images" should be **properly sized** (≥400px – ≤800px) and **properly optimized** (use a service like [Cloudinary](https://demo.cloudinary.com/auto-quality), [Cloudinary's "Responsive Breakpoints"](http://www.responsivebreakpoints.com/), or [Compressor.io](https://compressor.io/), other options: imagemin, pngquant, gifsicle, etc.). All static file assets should be be placed in `./static/uploads/`, files located here will be made available in the Netlify CMS.
+All "blog images" should be **properly sized** (≥400px – ≤800px) and **properly optimized** (use a service like [Cloudinary](https://demo.cloudinary.com/auto-quality), [Cloudinary's "Responsive Breakpoints"](http://www.responsivebreakpoints.com/), or [Compress-or-Die.com](https://compress-or-die.com/), other options: imagemin, pngquant, gifsicle, etc.). All static file assets should be be placed in `./static/uploads/`, files located here will be made available in the Netlify CMS.
 
 When adding images to blog posts use `<img src="/uploads/imagename.jpg" class="img-fluid" alt="Image Description" />` or `![/uploads/imagename.jpg](Image Description)`, the former is preferred as additional CSS/SASS can be applied.
 
