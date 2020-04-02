@@ -1,17 +1,17 @@
 # Netlify redirects https://www.netlify.com/docs/redirects/
-/index.html /
-/p/about-us.html /about-us
-/p/menu.html /menu
-/p/how-to-find-our-store.html /find-buy
-/p/where-to-buy.html /find-buy
-/p/blog-page.html /find-buy
-/p/blog-page_7.html /ingredients-sources
-/p/biscuit-mix-directions.html /biscuit-mix-directions
-/p/press.html /press
-/p/jobs.html /jobs
-/2018/01/order-now-to-pick-up-at-biscuit-shop.html /blog/order-now-to-pick-up-at-the-biscuit-shop/
-/2017/06/our-new-home.html /blog/our-new-home/
-/2016/02/biscuit-sandwiches-delivered-straight.html /blog/biscuit-sandwiches-delivered/
+/index.html / 301!
+/p/about-us.html /about-us 301!
+/p/menu.html /menu 301!
+/p/how-to-find-our-store.html /find-buy 301!
+/p/where-to-buy.html /find-buy 301!
+/p/blog-page.html /find-buy 301!
+/p/blog-page_7.html /ingredients-sources 301!
+/p/biscuit-mix-directions.html /biscuit-mix-directions 301!
+/p/press.html /press 301!
+/p/jobs.html /jobs 301!
+/2018/01/order-now-to-pick-up-at-biscuit-shop.html /blog/order-now-to-pick-up-at-the-biscuit-shop/ 301!
+/2017/06/our-new-home.html /blog/our-new-home/ 301!
+/2016/02/biscuit-sandwiches-delivered-straight.html /blog/biscuit-sandwiches-delivered/ 301!
 /:year/:month/* /news
 /:year/* /news
 /* /
