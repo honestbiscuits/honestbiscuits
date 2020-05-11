@@ -9,10 +9,10 @@ We are now at 1901 Western Avenue — just south of Victor Steinbrueck Park. You
 
 <div class="row">
   <div class="col-5 mx-auto">
-    <img class="img-fluid page-image shadow m-3" src="/uploads/art-hb-sign.jpg">
+    <img class="img-fluid page-image shadow m-3" src="/uploads/art_in_store_367x550.jpg">
   </div>
   <div class="col-5 mx-auto">
-    <img class="img-fluid page-image shadow m-3" src="/uploads/art-serving-savor.jpg">
+    <img class="img-fluid page-image shadow m-3" src="/uploads/store_pic.jpg">
   </div>
 </div>
 
