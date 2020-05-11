@@ -4,6 +4,7 @@ templateKey: page
 description: |
     Find and buy Honest Biscuits at our Pike Place Market bakery where where we bake our biscuits fresh daily. Or find us at a Seattle farmer's market, coffee shop, or at the local grocery. You can also order biscuits for delivery or ship them nationwide via mail order. We can also cater your next event or office party.
 ---
+<b>Open for Take-out and Delivery!</b> </br>
 We are now at 1901 Western Avenue — just south of Victor Steinbrueck Park. You can also reach us by going to the craft day stalls at the northwest corner of the Pike Place Market and across the Joe Desminone Bridge and out onto the new plazas. We are downstairs from that. Or just look for our neon sign on Western Avenue.
 
 <div class="row">
@@ -16,10 +17,11 @@ We are now at 1901 Western Avenue — just south of Victor Steinbrueck Park. You
 </div>
 
 <div class="dotted-line my-3"></div>
-
+<!--
 ### Farmers Markets
 Find out about all of the [Seattle Neighborhood Farmers Markets](http://www.seattlefarmersmarkets.org/).
-
+-->
+<!-- 
 <div class="row my-3">
   <div class="col-5 mx-auto">
     <h4>Tuesdays</h4>
@@ -28,7 +30,8 @@ Find out about all of the [Seattle Neighborhood Farmers Markets](http://www.seat
     11:00 am to 2:00 pm<br>
     (Starting May 28th)
   </div>
-
+-->
+<!--
   <div class="col-5 mx-auto">
     <h4>Thursdays</h4>
     <a href="http://pikeplacemarket.org/events/south-lake-union-farmers-market" target="_blank">South Lake Union Farmers Market</a><br>
@@ -37,7 +40,8 @@ Find out about all of the [Seattle Neighborhood Farmers Markets](http://www.seat
     (Starting May 30th)
   </div>
 </div>
-
+-->
+<!--
 <div class="row my-3">
   <div class="col-5 mx-auto">
     <h4>Sundays</h4>
@@ -49,8 +53,10 @@ Find out about all of the [Seattle Neighborhood Farmers Markets](http://www.seat
   <div class="col-5 mx-auto">
   </div>
 </div>
-
+-->
+<!--
 <div class="dotted-line my-3"></div>
+ -->
 
 ### Fine Local Establishments
 

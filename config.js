@@ -16,9 +16,11 @@ module.exports = {
   userName: 'Honest Biscuits', // Username to display in the author segment.
   userTwitter: 'HonestBiscuits', // Optionally renders "Follow Me" in the UserInfo segment.
   userLocation: 'Seattle, WA, Earth', // User location to display in the author segment.
-  userLocationHours: "Open Weekdays 8AM — 4PM", // Business hours displayed in contact segment.
-  userLocationHours2: "Weekends 8AM — 5PM", // 2nd Line of Business hours
-  userScheduleHours: 'Mo-Fr 08:00-16:00,Sa-Su 08:00-17:00', // Business hours formatted for JSON-LD.
+  userLocationHours: "Open for Take-out and Delivery Everyday (Except Tuesdays) 8AM — 2PM", // Business hours displayed in contact segment.
+  // userLocationHours2: "Weekends 8AM — 2PM", // 2nd Line of Business hours
+  userLocationHours2: '',
+  //userScheduleHours: 'We-Mo 08:00-14:00,Sa-Su 08:00-14:00', // Business hours formatted for JSON-LD.
+  userScheduleHours: 'Wed-Mo 08:00-14:00',
   userLocationAddress: [
     {
       street: '1901 Western Avenue',
@@ -33,7 +35,7 @@ module.exports = {
   userPhone: '+1 (206) 682-7179',
   userEmail: 'info@honestbiscuits.com',
   userAvatar: '', // User avatar to display in the author segment.
-  userDescription: '', // User description to display in the author segment.
+  userDescription: 'Open for Take-out and Delivery Only', // User description to display in the author segment.
   // Links to social profiles/projects you want to display in the author segment/navigation bar.
   userLinks: [
     {
