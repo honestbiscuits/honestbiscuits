@@ -108,13 +108,14 @@ const Header = () => (
                 aria-labelledby="navbarDropdown"
               >
                 <a
-                  href="https://www.grubhub.com/restaurant/honest-biscuits-1901-western-ave-suite-e-seattle/383167?classicAffiliateId=%2Fr%2Fw%2F49686%2F&utm_source=content-cms.grubhub.com&utm_medium=OOL&utm_campaign=order%20online&utm_content=383167"
+                  href="https://www.doordash.com/store/186327/?utm_source=partner-link"
                   className="dropdown-item"
                   activeClassName="active"
                   target="_blank"
                 >
                   Local Seattle Delivery
                 </a>
+
                 <a
                   href="https://ordering.chownow.com/order/10627/locations"
                   className="dropdown-item"
@@ -141,6 +142,16 @@ const Header = () => (
                 >
                   Nationwide Delivery
                 </a>
+
+                <a
+                  href="https://squareup.com/gift/AAHD65JMKMENJ/order"
+                  className="dropdown-item"
+                  activeClassName="active"
+                  target="_blank"
+                >
+                  Gift Cards
+                </a>
+
               </div>
             </li>
             <li className="nav-item dropdown">

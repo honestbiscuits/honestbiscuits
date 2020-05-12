@@ -12,23 +12,25 @@ description: |
     <div class="row">
       <div class="col col-9 col-small-9 col-tiny-9">
         <p>
-          <strong>Butterhole Biscuit<br></strong>
+          <strong>Butterhole Biscuit</strong>
         </p>
-        <p>Classic buttermilk biscuit with jam, butter, and/or honey</p>
+         <p>Classic buttermilk biscuit with jam, butter, and/or honey</p>
       </div>
       <div class="col col-3 col-small-3 col-tiny-3">
-        <p>$3.50</p>
+      <!-->  <p>$3.50</p> -->
+        <p></p>
       </div>
     </div>
     <div class="row">
       <div class="col col-9 col-small-9 col-tiny-9">
         <p>
-          <strong>Gluten-Free Butterhole Biscuit<br></strong>
+          <strong>Gluten-Free Butterhole Biscuit</strong>
         </p>
         <p>Gluten Free version of the classic with butter, jam,and/or honey</p>
       </div>
       <div class="col col-3 col-small-3 col-tiny-3">
-        <p>$4.50</p>
+      <!-->  <p>$4.50</p> -->
+        <p></p>
       </div>
     </div>
   </div>
@@ -42,7 +44,7 @@ description: |
         <p>Our most famous biscuit featuring Bavarian Meats Bacon, Beecher’s Flagship Cheese, and caramelized onions</p>
       </div>
       <div class="col col-3 col-small-3 col-tiny-3">
-        <p>$6</p>
+        <p></p>
       </div>
     </div>
     <div class="row">
@@ -53,7 +55,7 @@ description: |
         <p>Chunks of Beecher’s Flagship Cheese</p>
       </div>
       <div class="col col-3 col-small-3 col-tiny-3">
-        <p>$4</p>
+        <p></p>
       </div>
     </div>
     <div class="row">
@@ -64,7 +66,7 @@ description: |
         <p>Rotating selection of biscuits featuring local seasonal ingredients</p>
       </div>
       <div class="col col-3 col-small-3 col-tiny-3">
-        <p>$3.50 - $6</p>
+        <p></p>
       </div>
     </div>
   </div>
@@ -81,7 +83,7 @@ description: |
         </p>
       </div>
       <div class="col col-3 col-small-3 col-tiny-3">
-        <p>New</p>
+        <p></p>
       </div>
     </div>
     <div class="row">
@@ -94,7 +96,7 @@ description: |
         </p>
       </div>
       <div class="col col-3 col-small-3 col-tiny-3">
-        <p>$9</p>
+        <p></p>
       </div>
     </div>
     <div class="row">
@@ -105,7 +107,7 @@ description: |
         <p>Slice of cured ham from North Carolina on a Butterhole Biscuit</p>
       </div>
       <div class="col col-3 col-small-3 col-tiny-3">
-        <p>$7</p>
+        <p></p>
       </div>
     </div>
   </div>
@@ -119,7 +121,7 @@ description: |
         <p>Local cage-free egg with a slice of melted Tillamook cheese on a Butterhole Biscuit</p>
       </div>
       <div class="col col-3 col-small-3 col-tiny-3">
-        <p>$5</p>
+        <p></p>
       </div>
     </div>
     <div class="row">
@@ -130,7 +132,7 @@ description: |
         <p>Chunks of Beecher’s Flagship Cheese</p>
       </div>
       <div class="col col-3 col-small-3 col-tiny-3">
-        <p>$7</p>
+        <p></p>
       </div>
     </div>
     <div class="row">
@@ -141,7 +143,7 @@ description: |
         <p>Rotating selection of biscuits featuring local seasonal ingredients</p>
       </div>
       <div class="col col-3 col-small-3 col-tiny-3">
-        <p>$7</p>
+        <p></p>
       </div>
     </div>
   </div>
@@ -157,7 +159,7 @@ description: |
         <p>White sausage gravy on a Butterhole Biscuit</p>
       </div>
       <div class="col col-3 col-small-3 col-tiny-3">
-        <p>$7</p>
+        <p></p>
       </div>
     </div>
     <div class="row">
@@ -168,7 +170,7 @@ description: |
         <p>A hearty protein-rich lentil gravy which happens to be gluten free and vegan</p>
       </div>
       <div class="col col-3 col-small-3 col-tiny-3">
-        <p>$5</p>
+        <p></p>
       </div>
     </div>
     <div class="row">
@@ -176,7 +178,7 @@ description: |
         <p>You can still add some sausage</p>
       </div>
       <div class="col col-3 col-small-3 col-tiny-3">
-        <p>$2</p>
+        <p></p>
       </div>
     </div>
   </div>
@@ -187,7 +189,7 @@ description: |
         <p>Upgrade to Beecher's Flagship Biscuit</p>
       </div>
       <div class="col col-3 col-small-3 col-tiny-3">
-        <p>$1</p>
+        <p></p>
       </div>
     </div>
     <div class="row">
@@ -195,7 +197,7 @@ description: |
         <p>Upgrade to The MacGregor Biscuit</p>
       </div>
       <div class="col col-3 col-small-3 col-tiny-3">
-        <p>$3</p>
+        <p></p>
       </div>
     </div>
     <div class="row">
@@ -203,7 +205,7 @@ description: |
         <p>Upgrade to the Pike Place Biscuit</p>
       </div>
       <div class="col col-3 col-small-3 col-tiny-3">
-        <p>$4</p>
+        <p></p>
       </div>
     </div>
     <div class="row">
@@ -211,7 +213,7 @@ description: |
         <p>Add and egg</p>
       </div>
       <div class="col col-3 col-small-3 col-tiny-3">
-        <p>$1</p>
+        <p></p>
       </div>
     </div>
     <div class="row">
@@ -219,7 +221,7 @@ description: |
         <p>Add Kale-slaw</p>
       </div>
       <div class="col col-3 col-small-3 col-tiny-3">
-        <p>$2</p>
+        <p></p>
       </div>
     </div>
     <div class="row">
@@ -227,7 +229,7 @@ description: |
         <p>Add Pimento cheese</p>
       </div>
       <div class="col col-3 col-small-3 col-tiny-3">
-        <p>$2</p>
+        <p></p>
       </div>
     </div>
     <div class="row">
@@ -235,7 +237,7 @@ description: |
         <p>Add Gravy (vegan or sausage)</p>
       </div>
       <div class="col col-3 col-small-3 col-tiny-3">
-        <p>$2</p>
+        <p></p>
       </div>
     </div>
   </div>
@@ -251,7 +253,7 @@ description: |
         <p>Traditional Southern-style coleslaw, but made with kale</p>
       </div>
       <div class="col col-3 col-small-3">
-        <p>$3</p>
+        <p></p>
       </div>
     </div>
     <div class="row">
@@ -262,7 +264,7 @@ description: |
         <p>Organic Bob’s Red Mill corn grits with Tillamook Cheddar, Beecher’s Flagship Cheese, and Parmesan</p>
       </div>
       <div class="col col-3 col-small-3 col-tiny-3">
-        <p>$4</p>
+        <p></p>
       </div>
     </div>
     <div class="row">
@@ -273,7 +275,7 @@ description: |
         <p>Our take on this Southern classic using Tillamook and Beecher’s cheese with baby carrots</p>
       </div>
       <div class="col col-3 col-small-3 col-tiny-3">
-        <p>$4</p>
+        <p></p>
       </div>
     </div>
   </div>
@@ -286,7 +288,7 @@ description: |
         <p>Iced Tea (sweet)</p>
       </div>
       <div class="col col-3 col-small-3 col-tiny-3">
-        <p>$2</p>
+        <p></p>
       </div>
     </div>
     <div class="row">
@@ -294,7 +296,7 @@ description: |
         <p>Coffee</p>
       </div>
       <div class="col col-3 col-small-3 col-tiny-3">
-        <p>$2</p>
+        <p></p>
       </div>
     </div>
     <div class="row">
@@ -302,7 +304,7 @@ description: |
         <p>Bottled Water</p>
       </div>
       <div class="col col-3 col-small-3 col-tiny-3">
-        <p>$1.25</p>
+        <p></p>
       </div>
     </div>
     <div class="row">
@@ -310,7 +312,7 @@ description: |
         <p>Orange Juice</p>
       </div>
       <div class="col col-3 col-small-3 col-tiny-3">
-        <p>$2.90</p>
+        <p></p>
       </div>
     </div>
     <div class="row">
@@ -318,7 +320,7 @@ description: |
         <p>Whole Milk</p>
       </div>
       <div class="col col-3 col-small-3 col-tiny-3">
-        <p>$1.75</p>
+        <p></p>
       </div>
     </div>
     <div class="row">
@@ -327,7 +329,7 @@ description: |
         <p>Local Beers</p>
       </div>
       <div class="col col-3 col-small-3 col-tiny-3">
-        <p>$3 - $4</p>
+        <p></p>
       </div>
     </div>
   </div>
