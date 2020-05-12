@@ -6,6 +6,7 @@ import biscuitMug from '../images/chicken-biscuit-mug.jpg'
 const Messaging = () => (
   <div className="container">
     <div className="d-md-inline-flex row align-items-center">
+    <h1>Open for <a href={config.userLinks[4].url}>Takeout</a> and <a href={config.userLinks[6].url}>Delivery</a>!</h1>
       <div className="col text-center mx-auto">
         <img className="img-fluid" src={kickAss} alt="Kick Ass Biscuits" />
       </div>

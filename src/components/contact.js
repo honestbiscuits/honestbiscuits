@@ -86,6 +86,35 @@ const Contact = () => (
             </div>
             <div className="row">
               <div className="col-1 mr-2 my-2">
+                  <FontAwesomeIcon
+                    icon={['fas', 'clock']}
+                    fixedWidth
+                    className="fa-icon"
+                  />
+              </div>
+              <div className="col text-left my-2">
+                {config.userLocationHours} 
+                <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{config.userLocationHours2}
+              </div>
+            </div>
+            <div className="row">
+              <div className="col-1 mr-2 my-2">
+                <a href={config.userLinks[6].url} className="social-link">
+                  <FontAwesomeIcon
+                    icon={['fas', 'money-check-alt']}
+                    fixedWidth
+                    className="fa-icon"
+                  />
+                </a>
+              </div>
+              <div className="col text-left my-2">
+                <a href={config.userLinks[7].url} className="social-link">
+                  Order {config.userLinks[7].label}
+                </a>
+              </div>
+            </div>
+            <div className="row">
+              <div className="col-1 mr-2 my-2">
                 <a href={config.userLinks[4].url} className="social-link">
                   <FontAwesomeIcon
                     icon={['fas', 'utensils']}

@@ -35,7 +35,7 @@ module.exports = {
   userPhone: '+1 (206) 682-7179',
   userEmail: 'info@honestbiscuits.com',
   userAvatar: '', // User avatar to display in the author segment.
-  userDescription: 'Open for Take-out and Delivery Only', // User description to display in the author segment.
+  userDescription: 'Open for Take-out and Delivery', // User description to display in the author segment.
   // Links to social profiles/projects you want to display in the author segment/navigation bar.
   userLinks: [
     {
@@ -61,6 +61,26 @@ module.exports = {
     {
       label: 'RSS',
       url: '/rss.xml',
+    },
+    {
+      label: 'Gift Cards',
+      url: 'https://squareup.com/gift/AAHD65JMKMENJ/order',
+    },
+    {
+      label: 'DoorDash',
+      url: 'https://www.doordash.com/store/186327/?utm_source=partner-link',
+    },
+    {
+      label: 'GrubHub',
+      url: 'https://www.grubhub.com/restaurant/honest-biscuits-1901-western-ave-suite-e-seattle/383167?classicAffiliateId=%2Fr%2Fw%2F49686%2F&utm_source=content-cms.grubhub.com&utm_medium=OOL&utm_campaign=order%20online&utm_content=383167',
+    },
+    {
+      label: 'PostMates',
+      url: 'https://postmates.com/merchant/honest-biscuits-seattle-2',
+    },
+    {
+      label: 'Uber Eats',
+      url: 'https://www.ubereats.com/seattle/food-delivery/honest-biscuits/je6niXO6QvKi3AAGaST-cA',
     },
   ],
   get copyright() {

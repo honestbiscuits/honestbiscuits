@@ -8,6 +8,8 @@ import faTwitter from '@fortawesome/fontawesome-free-brands/faTwitter'
 import faInstagram from '@fortawesome/fontawesome-free-brands/faInstagram'
 import faPinterest from '@fortawesome/fontawesome-free-brands/faPinterest'
 import faUtensils from '@fortawesome/fontawesome-free-solid/faUtensils'
+import faMoneyCheckAlt from '@fortawesome/fontawesome-free-solid/faMoneyCheckAlt'
+import faClock from '@fortawesome/fontawesome-free-solid/faClock'
 
 fontawesome.library.add(
   faRss,
@@ -18,7 +20,9 @@ fontawesome.library.add(
   faTwitter,
   faInstagram,
   faPinterest,
-  faUtensils
+  faUtensils,
+  faMoneyCheckAlt,
+  faClock
 )
 
 export default fontawesome
