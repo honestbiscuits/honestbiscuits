@@ -62,19 +62,6 @@ Find out about all of the [Seattle Neighborhood Farmers Markets](http://www.seat
 
 <div class="row my-3">
   <div class="col-5 mx-auto">
-    <a href="http://thirstiestbirds.com/">Bird On A Wire Espresso</a><br>
-    3509 SW Henderson (at 35th)<br>
-    Biscuits (regular and gluten-free).<br>
-  </div>
-  <div class="col-5 mx-auto">
-    <a href="https://sevencoffeeroasters.com/pages/market-cafe-u-district">Seven Coffee Roasters</a><br>
-    2007 NE Ravenna Boulevard<br>
-    Biscuits and biscuit mixes.<br>
-  </div>
-</div>
-
-<div class="row my-3">
-  <div class="col-5 mx-auto">
     <a href="https://www.pccmarkets.com/stores/columbia-city/">PCC Natural Markets</a><br>
     3610 S. Edmunds St.<br>
     (206) 466-6182<br>
@@ -87,13 +74,25 @@ Find out about all of the [Seattle Neighborhood Farmers Markets](http://www.seat
   </div>
 </div>
 
+<div class="row my-3">
+  <div class="col-5 mx-auto">
+    <a href="https://sevencoffeeroasters.com/pages/market-cafe-u-district">Seven Coffee Roasters</a><br>
+    2007 NE Ravenna Boulevard<br>
+    Biscuits and biscuit mixes.<br>
+  </div>
+  <div class="col-5 mx-auto">
+    <!-- <a href="https://sevencoffeeroasters.com/pages/market-cafe-u-district">Seven Coffee Roasters</a><br>
+    2007 NE Ravenna Boulevard<br>
+    Biscuits and biscuit mixes.<br>
+    -->
+  </div>
+</div>
 <div class="dotted-line my-3"></div>
 
 ### Other Options
 #### Delivery
-You can have Honest Biscuits entire biscuit shop menu delivered to your door by [Postmates](https://postmates.com/sea/6de4aef3-08c6-4623-9bf2-13c0b44df631), you'll be eating Honest Biscuits delicious comfort food in minutes. To try them out, we have a special code for you (honestbiscuits), good for $10 off of your first order.
+You can have Honest Biscuits entire biscuit shop menu delivered to your door by [Uber Eats](https://www.ubereats.com/seattle/food-delivery/honest-biscuits/je6niXO6QvKi3AAGaST-cA), [DoorDash](https://www.doordash.com/store/186327/?utm_source=partner-link), [GrubHub](https://www.grubhub.com/restaurant/honest-biscuits-1901-western-ave-suite-e-seattle/383167?classicAffiliateId=%2Fr%2Fw%2F49686%2F&utm_source=content-cms.grubhub.com&utm_medium=OOL&utm_campaign=order%20online&utm_content=383167), and [Postmates](https://postmates.com/sea/6de4aef3-08c6-4623-9bf2-13c0b44df631), you'll be eating Honest Biscuits delicious comfort food in minutes. 
 
-[Order from Postmates Here](https://postmates.com/sea/6de4aef3-08c6-4623-9bf2-13c0b44df631)
 
 #### Catering
 We make biscuits for all sorts of business meetings, lunches, and parties. We can make anything from our regular menu or develop a unique custom recipe to suit your particular event.
