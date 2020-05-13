@@ -106,8 +106,8 @@ const Contact = () => (
                 </a>
               </div>
               <div className="col text-left my-2">
-                <a href={config.userLinks[7].url} className="social-link">
-                  Order {config.userLinks[7].label}
+                <a href={config.userLinks[6].url} className="social-link">
+                  Order {config.userLinks[6].label}
                 </a>
               </div>
             </div>
