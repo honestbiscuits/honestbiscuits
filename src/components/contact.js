@@ -80,8 +80,6 @@ const Contact = () => (
                 {config.userLocationAddress[0].city}, &nbsp;
                 {config.userLocationAddress[0].state} &nbsp;
                 {config.userLocationAddress[0].zip} <br />
-                <br />{config.userLocationHours}
-                <br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{config.userLocationHours2}
               </div>
             </div>
             <div className="row">

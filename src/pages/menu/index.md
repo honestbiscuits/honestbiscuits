@@ -17,7 +17,7 @@ description: |
          <p>Classic buttermilk biscuit with jam, butter, and/or honey</p>
       </div>
       <div class="col col-3 col-small-3 col-tiny-3">
-      <!-->  <p>$3.50</p> -->
+      <!-- <p>$3.50</p> -->
         <p></p>
       </div>
     </div>
@@ -29,7 +29,7 @@ description: |
         <p>Gluten Free version of the classic with butter, jam,and/or honey</p>
       </div>
       <div class="col col-3 col-small-3 col-tiny-3">
-      <!-->  <p>$4.50</p> -->
+      <!-- <p>$4.50</p> -->
         <p></p>
       </div>
     </div>
