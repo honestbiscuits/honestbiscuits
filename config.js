@@ -39,10 +39,12 @@ module.exports = {
   // Links to social profiles/projects you want to display in the author segment/navigation bar.
   userLinks: [
     {
+      linkid: '0',
       label: 'Facebook',
       url: 'https://www.facebook.com/HonestBiscuits/',
     },
     {
+      linkid: '1',
       label: 'Twitter',
       url: 'https://twitter.com/HonestBiscuits/',
     },
