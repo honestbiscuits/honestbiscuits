@@ -1,4 +1,5 @@
 import React from 'react'
+import config from '../../config'
 
 import kickAss from '../images/kick-ass-biscuits.png'
 import biscuitMug from '../images/chicken-biscuit-mug.jpg'
