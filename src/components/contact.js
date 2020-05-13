@@ -92,7 +92,7 @@ const Contact = () => (
               </div>
               <div className="col text-left my-2">
                 {config.userLocationHours} 
-                <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{config.userLocationHours2}
+                <br/>{config.userLocationHours2}
               </div>
             </div>
             <div className="row">
