@@ -8,11 +8,12 @@ description: |
 <div class="row">
   <div class="col col-6 col-small-6 col-tiny-6">
     <h1>Biscuits</h1>
-    <p>Warmed up to eat here, or to take home and eat later</p>
+    <!-- <p>Warmed up to eat here, or to take home and eat later</p> -->
     <div class="row">
       <div class="col col-9 col-small-9 col-tiny-9">
         <p>
-         <strong>Butterhole Biscuit</strong> <br />
+         <strong>Butterhole Biscuit</strong> 
+         <br />
          Classic buttermilk biscuit with jam, butter, and/or honey
         </p>
       </div>
@@ -25,8 +26,9 @@ description: |
       <div class="col col-9 col-small-9 col-tiny-9">
         <p>
           <strong>Gluten-Free Butterhole Biscuit</strong>
+          <br />
+          Gluten Free version of the classic with butter, jam,and/or honey
         </p>
-        <p>Gluten Free version of the classic with butter, jam,and/or honey</p>
       </div>
       <div class="col col-3 col-small-3 col-tiny-3">
       <!-- <p>$4.50</p> -->
@@ -39,9 +41,10 @@ description: |
     <div class="row">
       <div class="col col-9 col-small-9 col-tiny-9">
         <p>
-          <strong>The MacGregor<br></strong>
+          <strong>The MacGregor</strong>
+          <br />
+          Our most famous biscuit featuring Bavarian Meats Bacon, Beecher’s Flagship Cheese, and caramelized onions
         </p>
-        <p>Our most famous biscuit featuring Bavarian Meats Bacon, Beecher’s Flagship Cheese, and caramelized onions</p>
       </div>
       <div class="col col-3 col-small-3 col-tiny-3">
         <p></p>
@@ -51,8 +54,9 @@ description: |
       <div class="col col-9 col-small-9 col-tiny-9">
         <p>
           <strong>Pike Place</strong>
+          <br />
+          Chunks of Beecher’s Flagship Cheese
         </p>
-        <p>Chunks of Beecher’s Flagship Cheese</p>
       </div>
       <div class="col col-3 col-small-3 col-tiny-3">
         <p></p>
@@ -62,8 +66,9 @@ description: |
       <div class="col col-9 col-small-9 col-tiny-9">
         <p>
           <strong>Seasonal</strong>
+          <br />
+          Rotating selection of biscuits featuring local seasonal ingredients
         </p>
-        <p>Rotating selection of biscuits featuring local seasonal ingredients</p>
       </div>
       <div class="col col-3 col-small-3 col-tiny-3">
         <p></p>
@@ -77,9 +82,9 @@ description: |
     <div class="row">
       <div class="col col-9 col-small-9 col-tiny-9">
         <p>
-          <strong>Fried Chicken on a Butterhole Biscuit<br></strong>
-        </p>
-        <p>Crispy chicken thigh on a biscuit with mayo and pickles from Seattle Pickle Company
+          <strong>Fried Chicken on a Butterhole Biscuit</strong>
+          <br />
+          Crispy chicken thigh on a biscuit with mayo and pickles from Seattle Pickle Company
         </p>
       </div>
       <div class="col col-3 col-small-3 col-tiny-3">
@@ -89,9 +94,9 @@ description: |
     <div class="row">
       <div class="col col-9 col-small-9 col-tiny-9">
         <p>
-          <strong>Oven-“fried” Chicken on a Butterhole Biscuit<br></strong>
-        </p>
-        <p>Piece of local boneless breast with Pike Brewing Stout mustard, pickled onions, &amp; micro arugula on a Butterhole
+          <strong>Oven-“fried” Chicken on a Butterhole Biscuit</strong>
+          <br />
+          Piece of local boneless breast with Pike Brewing Stout mustard, pickled onions, &amp; micro arugula on a Butterhole
           Biscuit
         </p>
       </div>
@@ -103,8 +108,9 @@ description: |
       <div class="col col-9 col-small-9 col-tiny-9">
         <p>
           <strong>Country Ham</strong>
+          <br />
+          Slice of cured ham from North Carolina on a Butterhole Biscuit
         </p>
-        <p>Slice of cured ham from North Carolina on a Butterhole Biscuit</p>
       </div>
       <div class="col col-3 col-small-3 col-tiny-3">
         <p></p>
@@ -117,8 +123,9 @@ description: |
       <div class="col col-9 col-small-9 col-tiny-9">
         <p>
           <strong>Eggs and Cheese</strong>
+          <br />
+          Local cage-free egg with a slice of melted Tillamook cheese on a Butterhole Biscuit
         </p>
-        <p>Local cage-free egg with a slice of melted Tillamook cheese on a Butterhole Biscuit</p>
       </div>
       <div class="col col-3 col-small-3 col-tiny-3">
         <p></p>
@@ -128,8 +135,9 @@ description: |
       <div class="col col-9 col-small-9 col-tiny-9">
         <p>
           <strong>Egg, Bacon, and Cheese</strong>
+          <br />
+          Chunks of Beecher’s Flagship Cheese
         </p>
-        <p>Chunks of Beecher’s Flagship Cheese</p>
       </div>
       <div class="col col-3 col-small-3 col-tiny-3">
         <p></p>
@@ -139,8 +147,9 @@ description: |
       <div class="col col-9 col-small-9 col-tiny-9">
         <p>
           <strong>Egg, Sausage, and Cheese</strong>
+          <br />
+          Rotating selection of biscuits featuring local seasonal ingredients
         </p>
-        <p>Rotating selection of biscuits featuring local seasonal ingredients</p>
       </div>
       <div class="col col-3 col-small-3 col-tiny-3">
         <p></p>
@@ -154,9 +163,10 @@ description: |
     <div class="row">
       <div class="col col-9 col-small-9 col-tiny-9">
         <p>
-          <strong>Southern Style<br></strong>
+          <strong>Southern Style</strong>
+          <br />
+          White sausage gravy on a Butterhole Biscuit
         </p>
-        <p>White sausage gravy on a Butterhole Biscuit</p>
       </div>
       <div class="col col-3 col-small-3 col-tiny-3">
         <p></p>
@@ -165,9 +175,10 @@ description: |
     <div class="row">
       <div class="col col-9 col-small-9 col-tiny-9">
         <p>
-          <strong>Northwest Gravy<br></strong>
+          <strong>Northwest Gravy</strong>
+          <br />
+          A hearty protein-rich lentil gravy which happens to be gluten free and vegan
         </p>
-        <p>A hearty protein-rich lentil gravy which happens to be gluten free and vegan</p>
       </div>
       <div class="col col-3 col-small-3 col-tiny-3">
         <p></p>
@@ -248,9 +259,10 @@ description: |
     <div class="row">
       <div class="col col-9 col-small-9">
         <p>
-          <strong>Kale-slaw<br></strong>
+          <strong>Kale-slaw</strong>
+          <br />
+          Traditional Southern-style coleslaw, but made with kale
         </p>
-        <p>Traditional Southern-style coleslaw, but made with kale</p>
       </div>
       <div class="col col-3 col-small-3">
         <p></p>
@@ -260,8 +272,9 @@ description: |
       <div class="col col-9 col-small-9 col-tiny-9">
         <p>
           <strong>Three Cheese Grits</strong>
+          <br />
+          Organic Bob’s Red Mill corn grits with Tillamook Cheddar, Beecher’s Flagship Cheese, and Parmesan
         </p>
-        <p>Organic Bob’s Red Mill corn grits with Tillamook Cheddar, Beecher’s Flagship Cheese, and Parmesan</p>
       </div>
       <div class="col col-3 col-small-3 col-tiny-3">
         <p></p>
@@ -271,8 +284,9 @@ description: |
       <div class="col col-9 col-small-9 col-tiny-9">
         <p>
           <strong>Pimento Cheese</strong>
+          <br />
+          Our take on this Southern classic using Tillamook and Beecher’s cheese with baby carrots
         </p>
-        <p>Our take on this Southern classic using Tillamook and Beecher’s cheese with baby carrots</p>
       </div>
       <div class="col col-3 col-small-3 col-tiny-3">
         <p></p>
