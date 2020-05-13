@@ -39,46 +39,57 @@ module.exports = {
   // Links to social profiles/projects you want to display in the author segment/navigation bar.
   userLinks: [
     {
+      linkid: '0'
       label: 'Facebook',
       url: 'https://www.facebook.com/HonestBiscuits/',
     },
     {
+      linkid: '1'
       label: 'Twitter',
       url: 'https://twitter.com/HonestBiscuits/',
     },
     {
+      linkid: '2'
       label: 'Instagram',
       url: 'https://www.instagram.com/HonestBiscuits/',
     },
     {
+      linkid: '3'
       label: 'Pinterest',
       url: 'https://www.pinterest.com/HonestBiscuits/pins/follow/',
     },
     {
+      linkid: '4'
       label: 'ChowNow',
       url: 'https://ordering.chownow.com/order/10627/locations',
     },
     {
+      linkid: '5'
       label: 'RSS',
       url: '/rss.xml',
     },
     {
+      linkid: '6'
       label: 'Gift Cards',
       url: 'https://squareup.com/gift/AAHD65JMKMENJ/order',
     },
     {
+      linkid: '7'
       label: 'DoorDash',
       url: 'https://www.doordash.com/store/186327/?utm_source=partner-link',
     },
     {
+      linkid: '8'
       label: 'GrubHub',
       url: 'https://www.grubhub.com/restaurant/honest-biscuits-1901-western-ave-suite-e-seattle/383167?classicAffiliateId=%2Fr%2Fw%2F49686%2F&utm_source=content-cms.grubhub.com&utm_medium=OOL&utm_campaign=order%20online&utm_content=383167',
     },
     {
+      linkid: '9'
       label: 'PostMates',
       url: 'https://postmates.com/merchant/honest-biscuits-seattle-2',
     },
     {
+      linkid: '10'
       label: 'Uber Eats',
       url: 'https://www.ubereats.com/seattle/food-delivery/honest-biscuits/je6niXO6QvKi3AAGaST-cA',
     },

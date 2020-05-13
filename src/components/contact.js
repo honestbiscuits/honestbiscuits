@@ -97,7 +97,7 @@ const Contact = () => (
             </div>
             <div className="row">
               <div className="col-1 mr-2 my-2">
-                <a href={config.userLinks[6].url} className="social-link">
+                <a href={config.userLinks[6].url} className="social-link" target="_blank">
                   <FontAwesomeIcon
                     icon={['fas', 'money-check-alt']}
                     fixedWidth
@@ -106,14 +106,14 @@ const Contact = () => (
                 </a>
               </div>
               <div className="col text-left my-2">
-                <a href={config.userLinks[6].url} className="social-link">
+                <a href={config.userLinks[6].url} className="social-link" target="_blank">
                   Order {config.userLinks[6].label}
                 </a>
               </div>
             </div>
             <div className="row">
               <div className="col-1 mr-2 my-2">
-                <a href={config.userLinks[4].url} className="social-link">
+                <a href={config.userLinks[4].url} className="social-link" target="_blank">
                   <FontAwesomeIcon
                     icon={['fas', 'utensils']}
                     fixedWidth
@@ -122,7 +122,7 @@ const Contact = () => (
                 </a>
               </div>
               <div className="col text-left my-2">
-                <a href={config.userLinks[4].url} className="social-link">
+                <a href={config.userLinks[4].url} className="social-link" target="_blank">
                   Order online using {config.userLinks[4].label}
                 </a>
               </div>

@@ -7,7 +7,7 @@ import biscuitMug from '../images/chicken-biscuit-mug.jpg'
 const Messaging = () => (
   <div className="container">
     <center>
-    <h3>Open for <a href={config.userLinks[4].url} target="_blank">Takeout</a> and <a href={config.userLinks[6].url} target="_blank">Delivery</a><br />
+    <h3>Open for <a href={config.userLinks[4].url} target="_blank">Takeout</a> and <a href={config.userLinks[10].url} target="_blank">Delivery</a><br />
     or <a href={config.userLinks[6].url} target="_blank">Order Gift Cards</a>
     </h3>
     </center>

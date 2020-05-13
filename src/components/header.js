@@ -108,7 +108,7 @@ const Header = () => (
                 aria-labelledby="navbarDropdown"
               >
                 <a
-                  href="https://www.doordash.com/store/186327/?utm_source=partner-link"
+                  href="https://www.ubereats.com/seattle/food-delivery/honest-biscuits/je6niXO6QvKi3AAGaST-cA"
                   className="dropdown-item"
                   activeClassName="active"
                   target="_blank"
