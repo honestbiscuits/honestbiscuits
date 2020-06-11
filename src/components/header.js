@@ -142,6 +142,24 @@ const Header = () => (
                 >
                   Nationwide Delivery
                 </a>
+  
+                  <a
+                  href="https://honest-biscuits.square.site/#sjmgoa"
+                  className="dropdown-item"
+                  activeClassName="active"
+                  target="_blank"
+                >
+                  Mixes &amp; Coffee
+                </a>
+
+                <a
+                  href="https://honest-biscuits.square.site/#soLxYF"
+                  className="dropdown-item"
+                  activeClassName="active"
+                  target="_blank"
+                >
+                  Merchandise
+                </a>
 
                 <a
                   href="https://squareup.com/gift/AAHD65JMKMENJ/order"
