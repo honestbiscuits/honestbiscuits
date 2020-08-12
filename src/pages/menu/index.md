@@ -134,9 +134,9 @@ description: |
     <div class="row">
       <div class="col col-9 col-small-9 col-tiny-9">
         <p>
-          <strong>Egg, Bacon, and Cheese</strong>
+          <strong>Bacon Egg and Cheese</strong>
           <br />
-          Chunks of Beecher’s Flagship Cheese
+          Slices of bacon,  local cage-free egg, and Tillamook cheddar on a buttermilk biscuit
         </p>
       </div>
       <div class="col col-3 col-small-3 col-tiny-3">
@@ -146,9 +146,9 @@ description: |
     <div class="row">
       <div class="col col-9 col-small-9 col-tiny-9">
         <p>
-          <strong>Egg, Sausage, and Cheese</strong>
+          <strong>Sausage Egg and Cheese</strong>
           <br />
-          Rotating selection of biscuits featuring local seasonal ingredients
+          Chicken apple sausage patty from Uli’s Famous Sausage, local cage-free egg, and Tillamook cheddar on a biscuit
         </p>
       </div>
       <div class="col col-3 col-small-3 col-tiny-3">
