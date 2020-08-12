@@ -155,8 +155,7 @@ description: |
         <p></p>
       </div>
     </div>
-  </div>
-     <div class="row">
+    <div class="row">
       <div class="col col-9 col-small-9 col-tiny-9">
         <p>
           <strong>Mexican Breakfast</strong>
