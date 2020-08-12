@@ -156,6 +156,19 @@ description: |
       </div>
     </div>
   </div>
+     <div class="row">
+      <div class="col col-9 col-small-9 col-tiny-9">
+        <p>
+          <strong>Mexican Breakfast</strong>
+          <br />
+          Local egg scramble with chorizo from Uli’s Famous Sausage, Tillamook cheddar, a bit of mayo and cilantro
+        </p>
+     </div>
+     <div class="col col-3 col-small-3 col-tiny-3">
+        <p></p>
+     </div>
+    </div>
+  </div>
 </div>
 <div class="row">
   <div class="col col-6 col-small-6 col-tiny-6">
