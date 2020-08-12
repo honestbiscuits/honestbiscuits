@@ -311,57 +311,18 @@ description: |
     <h4>Drinks</h4>
     <div class="row">
       <div class="col col-9 col-small-9 col-tiny-9">
-<!--        <p>Iced Tea (sweet)</p> -->
         <p>Iced Tea (sweet)<br/>
           Coffee<br/>
-          Bottled Water <br/>
+          Bottled Water<br/>
+          Orange Juice<br/>
+          Whole Milk<br/>
+          Local Sodas<br/>
+          Local Beers<br/>
         </p>
       </div>
       <div class="col col-3 col-small-3 col-tiny-3">
         <p></p>
       </div>
     </div>
-    <div class="row">
-      <div class="col col-9 col-small-9 col-tiny-9">
-        <p>Coffee</p>
-      </div>
-      <div class="col col-3 col-small-3 col-tiny-3">
-        <p></p>
-      </div>
-    </div>
-    <div class="row">
-      <div class="col col-9 col-small-9 col-tiny-9">
-        <p>Bottled Water</p>
-      </div>
-      <div class="col col-3 col-small-3 col-tiny-3">
-        <p></p>
-      </div>
-    </div>
-    <div class="row">
-      <div class="col col-9 col-small-9 col-tiny-9">
-        <p>Orange Juice</p>
-      </div>
-      <div class="col col-3 col-small-3 col-tiny-3">
-        <p></p>
-      </div>
-    </div>
-    <div class="row">
-      <div class="col col-9 col-small-9 col-tiny-9">
-        <p>Whole Milk</p>
-      </div>
-      <div class="col col-3 col-small-3 col-tiny-3">
-        <p></p>
-      </div>
-    </div>
-    <div class="row">
-      <div class="col col-9 col-small-9 col-tiny-9">
-        <p>Local Sodas</p>
-        <p>Local Beers</p>
-      </div>
-      <div class="col col-3 col-small-3 col-tiny-3">
-        <p></p>
-      </div>
-    </div>
-  </div>
-</div>
+   </div>
 </div>
