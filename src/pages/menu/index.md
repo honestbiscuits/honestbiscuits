@@ -311,7 +311,11 @@ description: |
     <h4>Drinks</h4>
     <div class="row">
       <div class="col col-9 col-small-9 col-tiny-9">
-        <p>Iced Tea (sweet)</p>
+<!--        <p>Iced Tea (sweet)</p> -->
+        <p>Iced Tea (sweet)<br/>
+          Coffee<br/>
+          Bottled Water <br/>
+        </p>
       </div>
       <div class="col col-3 col-small-3 col-tiny-3">
         <p></p>
