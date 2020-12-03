@@ -90,6 +90,15 @@ const Header = () => (
                 Menu
               </Link>
             </li>
+              <li className="nav-item">
+              <Link
+                to="https://honest-biscuits.square.site/#gfTNzW"
+                className="nav-link px-4"
+                activeClassName="active"
+              >
+                Gifts
+              </Link>
+            </li>
             <li className="nav-item">
               <Link
                 to="/find-buy"
