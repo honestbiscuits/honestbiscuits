@@ -4,7 +4,7 @@ This repo contains the [website](https://honest-biscuits.netlify.com) for [Hones
 It follows the [JAMstack architecture](https://jamstack.org) by using Git as a single source of truth, and [Netlify](https://netlify.com) for continuous deployment, and CDN distribution. "It's a new way of building websites and apps that delivers better performance, higher security, lower cost of scaling, and a better developer experience."
 
 ## Getting Started
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/honestbiscuits/honestbiscuits-gbn)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/honestbiscuits/honestbiscuits)
 
 ### Prerequisites
 * [Node.js ≥8.x](https://nodejs.org/en/download/releases/)
