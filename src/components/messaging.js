@@ -8,7 +8,7 @@ const Messaging = () => (
   <div className="container">
     <center>
     <h3>Open for <a href={config.userLinks[4].url} target="_blank">Takeout</a> and <a href={config.userLinks[10].url} target="_blank">Delivery</a><br />
-    or <a href={config.userLinks[6].url} target="_blank">Order Gift Cards</a></br>
+    or <a href={config.userLinks[6].url} target="_blank">Order Gift Cards</a><br/>
   <a href="https://honest-biscuits.square.site/#gfTNzW">Order Easy Gift Boxes &amp; support small businesses in Seattle.</a>
     </h3>
     </center>
