@@ -92,8 +92,8 @@ const Header = () => (
             </li>
               <li className="nav-item">
               <a
-                  href="https://www.ubereats.com/seattle/food-delivery/honest-biscuits/je6niXO6QvKi3AAGaST-cA"
-                  className="dropdown-item"
+                  href="https://honest-biscuits.square.site/#gfTNzW"
+                  className="nav-link px-4"
                   activeClassName="active"
                   target="_blank"
                 >
