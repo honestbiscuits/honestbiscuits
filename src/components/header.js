@@ -170,6 +170,15 @@ const Header = () => (
                 >
                   Merchandise
                 </a>
+  
+                  <a
+                  href="https://honest-biscuits.square.site/#gfTNzW"
+                  className="dropdown-item"
+                  activeClassName="active"
+                  target="_blank"
+                >
+                  Gifts
+                </a>
 
                 <a
                   href="https://squareup.com/gift/AAHD65JMKMENJ/order"
