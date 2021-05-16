@@ -16,11 +16,11 @@ module.exports = {
   userName: 'Honest Biscuits', // Username to display in the author segment.
   userTwitter: 'HonestBiscuits', // Optionally renders "Follow Me" in the UserInfo segment.
   userLocation: 'Seattle, WA, Earth', // User location to display in the author segment.
-  userLocationHours: 'Open for Take-out and Nearly Everyday', // Business hours displayed in contact segment.
-  // userLocationHours2: "Weekends 8AM — 2PM", // 2nd Line of Business hours
-  userLocationHours2: 'Wednesday to Monday 8AM — 2PM ',
-  //userScheduleHours: 'We-Mo 08:00-14:00,Sa-Su 08:00-14:00', // Business hours formatted for JSON-LD.
-  userScheduleHours: 'Wed-Mo 08:00-14:00',
+  userLocationHours: 'Monday, Wednesday, Thursday, Friday 8:30AM — 2PM', // Business hours displayed in contact segment.
+  userLocationHours2: "Weekends 8:30AM — 3PM", // 2nd Line of Business hours
+  // userLocationHours2: 'Wednesday to Monday 8AM — 2PM ',
+  userScheduleHours: 'We-Mo 08:30-14:00,Sa-Su 08:30-15:00', // Business hours formatted for JSON-LD.
+  //userScheduleHours: 'Wed-Mo 08:00-14:00',
   userLocationAddress: [
     {
       street: '1901 Western Avenue',
