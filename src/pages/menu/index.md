@@ -1,8 +1,6 @@
 ---
-title: Menu
 templateKey: page
-description: |
-    Using the best fresh local ingredients, we are open daily for breakfast. Our restaurant menu features buttermilk biscuits, breakfast sandwiches, biscuits and gravy and many other southern favorites including vegan, vegetarian and gluten free options. Missed breakfast? Try our newest fried chicken sandwich or a crab melt for lunch.
+title: Menu
 ---
 <div class="menu">
 <div class="row">
@@ -96,7 +94,7 @@ description: |
         <p>
           <strong>Oven-“fried” Chicken on a Butterhole Biscuit</strong>
           <br />
-          Piece of local boneless breast with Pike Brewing Stout mustard, pickled onions, &amp; micro arugula on a Butterhole
+          Piece of local boneless breast with Pike Brewing Stout mustard, pickled onions, &amp; arugula on a Butterhole
           Biscuit
         </p>
       </div>
@@ -107,9 +105,9 @@ description: |
     <div class="row">
       <div class="col col-9 col-small-9 col-tiny-9">
         <p>
-          <strong>Country Ham</strong>
+          <strong>Country Ham, Egg, and Cheese</strong>
           <br />
-          Slice of cured ham from North Carolina on a Butterhole Biscuit
+          Slice of cured ham from North Carolina, local cage-free egg, with a slice of melted Tillamook cheddar on a Butterhole Biscuit
         </p>
       </div>
       <div class="col col-3 col-small-3 col-tiny-3">
