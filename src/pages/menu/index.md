@@ -385,7 +385,7 @@ title: Menu
             <p>We serve local Seven Coffee Roasters<br/>
             (can be served hot or iced>
             </p>
-            <p>Espresso drinks can be made Decaf and with 2%, Oat or Coconut milks</p>
+            <p>Espresso drinks can be made Decaf and with 2&percnt;, Oat or Coconut milks</p>
             <p>Can add Vanilla, Caramel, Dark Chocolate, White Chocolate or Sugar-Free Vanilla to any drink</p>
             <div class="row">
                 <div class="col col-9 col-small-9 col-tiny-9">
